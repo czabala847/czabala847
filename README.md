@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos Zabala</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🔭 I’m currently working on [Knowkee de Nuevos Medios](https://nuevosmedios.net/knowkee/)
-
 - 👨‍💻 All of my projects are available at [https://carlos-zabala.vercel.app/](https://carlos-zabala.vercel.app/)
 
 - 📫 How to reach me **czabala847@gmail.com**
