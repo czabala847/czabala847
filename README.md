@@ -3,10 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://carlos-zabala.vercel.app/](https://carlos-zabala.vercel.app/)
 
-- 📫 How to reach me **czabala847@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kC11p8VNeKXduZnzYYVnHibBo9YQd1bn/view?usp=sharing](https://drive.google.com/file/d/1kC11p8VNeKXduZnzYYVnHibBo9YQd1bn/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/carlos-zabala-roqueme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos zabala roqueme" height="30" width="40" /></a>
